@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-<!--
-**paca-007/paca-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on GameInstitute
-- 🌱 I’m currently learning Computer Programming
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <a href="https://splashy-cupcake-660.notion.site/Portfolio-9530f125775d45dfa8b328e1bb00c42e?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=000000"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paca-007&show_icons=true&theme=radical)
